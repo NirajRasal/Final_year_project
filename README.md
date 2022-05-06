@@ -5,8 +5,7 @@ Click [here](https://share.streamlit.io/52punk/stock_price_prediction/main/web-a
 
 ## Contributors
 
-- [Mrinab Dey](https://github.com/mrinab/)
-- [Pankaj Kumar Sah](https://github.com/52punk/)
+Niraj Rasal,Vijay Chavan,Rushikesh Rathod and Atul Giramkar
 
 ## Run this locally
 
