@@ -1,8 +1,5 @@
 # Stock_Price_Prediction
 
-Click [here](https://share.streamlit.io/52punk/stock_price_prediction/main/web-app-ui.py) and check the trends of stocks 😄
-
-
 ## Contributors
 
 Niraj Rasal,Vijay Chavan,Rushikesh Rathod and Atul Giramkar
